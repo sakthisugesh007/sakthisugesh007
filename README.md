@@ -2,13 +2,13 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
   <span style="font-size:42px; font-weight:bold; background: linear-gradient(90deg,#00C9FF,#92FE9D,#FC00FF,#00DBDE); -webkit-background-clip: text; color: transparent;">
-    Sabari M
+    Sakthisugesh K R
   </span>
 </h1>
 
 <h3 align="center">
 <!--   💻 MERN Stack & React Native Developer | .NET WebAPI | AWS & DevOps | LangChain Enthusiast -->
-💻 MERN Stack & React Native Developer | AWS & DevOps | LangChain Enthusiast
+💻 MERN Stack & React Native Developer
   
 </h3>
 
