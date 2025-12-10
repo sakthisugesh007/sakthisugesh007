@@ -221,7 +221,7 @@
 
   **Tech:** React • Node.js • MongoDB • Electron • WebSocket • AHK  
   <br/>
-  🔗 [Live Demo](https://certaura.vercel.app/) | [GitHub](https://github.com/sabarim6369/Certaura-Client.git)  
+  🔗 [Live Demo](https://certaura.vercel.app/) | [GitHub](https://github.com/sakthisugesh007/Certaura-Client.git)  
 </details>
 
 ---
@@ -229,16 +229,16 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabarim6369&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarim6369&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakthisugesh007&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthisugesh007&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sabarim6369&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sakthisugesh007&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabarim6369&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakthisugesh007&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -246,7 +246,7 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://github.com/sabarim6369"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/sakthisugesh007"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://sabarim6369.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="mailto:sabarim6369@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sabarim6369/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
